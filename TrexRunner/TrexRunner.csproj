@@ -15,7 +15,7 @@
     <Company>Yetibyte</Company>
     <Authors>Lucky Goodrich</Authors>
     <Product>T-Rex Runner</Product>
-    <Description>Recreation of the T-Rex Runner game frome Chrome.</Description>
+    <Description>Recreation of the T-Rex Runner game from Chrome.</Description>
   </PropertyGroup>
 
   <ItemGroup>

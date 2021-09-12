@@ -1,4 +1,4 @@
-# T-Rex Runner (MonoGame implementation)
+# T-Rex Runner (Monogame implementation)
 A recreation of the T-Rex Runner game from Google Chrome, developed for a YouTube series of mine using the Monogame framework and .NET core. All credits for the original game go to the Chromium team.
 
 ## Description

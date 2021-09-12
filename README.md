@@ -14,4 +14,4 @@ This is a Monogame implementation of the T-Rex Runner game that is hidden as an 
 
 Here's the playlist of my tutorial series on how to create this game using the Monogame framework:
 
-([![Tutorial Series](https://i.ytimg.com/vi/DJCQVJ83J1U/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBWqVd9wistTsGcd86-wLo_o-oNA)](https://www.youtube.com/playlist?list=PLG2i_rSSIXXoFdh3WCDtGumklyIXt4KiY)
+[![Tutorial Series](https://i.ytimg.com/vi/DJCQVJ83J1U/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBWqVd9wistTsGcd86-wLo_o-oNA)](https://www.youtube.com/playlist?list=PLG2i_rSSIXXoFdh3WCDtGumklyIXt4KiY)

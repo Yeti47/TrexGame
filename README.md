@@ -4,10 +4,10 @@ A recreation of the T-Rex Runner game from Google Chrome, developed for a YouTub
 ## Description
 This is a Monogame implementation of the T-Rex Runner game that is hidden as an easteregg in the Google Chrome browser. It is implemented with C# and .NET core and was designed to be as close to the original as possible. This game was developed for a YouTube tutorial series, which can be found [here](https://www.youtube.com/playlist?list=PLG2i_rSSIXXoFdh3WCDtGumklyIXt4KiY).
 
-Original game:
+### Original game:
 ![T-Rex Runner original](https://i.imgur.com/JWYfCy4.gif)
 
-Recreation:
+### Recreation:
 ![T-Rex Runner recreation](https://i.imgur.com/xaDLb0P.gif)
 
 ## Tutorial Series

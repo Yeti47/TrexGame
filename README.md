@@ -10,6 +10,16 @@ This is a MonoGame implementation of the T-Rex Runner game that is hidden as an 
 ### Recreation:
 ![T-Rex Runner recreation](https://i.imgur.com/xaDLb0P.gif)
 
+## Controls
+
+Key | Action
+----|-------
+Space | Jump/Start Game
+Down Arrow | Duck/Cancel Jump
+Escape | Exit Game
+F12 | Toggle Window Size
+F8 | Clear Highscore
+
 ## Tutorial Series
 
 Here's the playlist of my tutorial series on how to create this game using the MonoGame framework:

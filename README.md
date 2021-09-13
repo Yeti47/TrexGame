@@ -15,7 +15,7 @@ This is a MonoGame implementation of the T-Rex Runner game that is hidden as an 
 Key | Action
 ----|-------
 Space | Jump/Start Game
-Down Arrow | Duck/Cancel Jump
+Down Arrow | Duck/Land
 Escape | Exit Game
 F12 | Toggle Window Size
 F8 | Clear Highscore
